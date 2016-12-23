@@ -10,7 +10,7 @@ Building a good city website is challenging. This is a shared space to track bes
     - Vision and Goals
     - Information Architecture
     - User Stories
-    - [Platform Selection]({{ site.github.url }}/docs/platform.md)
+    - [Platform Selection](docs/platform.md)
   - Assembly 
     - Wireframes
     - Page Types
