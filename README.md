@@ -1,4 +1,5 @@
-# ![Markdown Here logo](http://i.imgur.com/SwQktkI.png) Pulpo City Website Framework
+# ![Markdown Here logo](http://i.imgur.com/SwQktkI.png) 
+# Pulpo City Website Framework
 
 Pulpo is our attempt at building a framework for city websites. We found in redesigning our own municipal website, there is not a great starting place for communities undertaking this task in-house. Pulpo is meant to provide you with a starter kit of tools aimed at helping you track & utilize best practices en route to launching your own site -- wherever you are in the process of development. 
 
