@@ -5,12 +5,14 @@ Pulpo is our attempt at building a framework for city websites. We found in rede
 ## General steps:
 
   - Foundation
-    - A living style guide and pattern library
-    - Vision and Goals
+    - [Pattern Library](docs/designmanual.md)
+    - [Vision and Goals](docs/vision.md)
     - [Information Architecture](docs/ia.md)
-    - User Stories
+    - User Stories Template
+    - [Style Guide](docs/contentstyle.md)
     - [Platform Selection](docs/platform.md)
   - Assembly 
+    - [IA Template](docs/websiteIA.md)
     - Wireframes
     - City-government specific page templates
     - Platform Installation / Configuration 
