@@ -8,7 +8,7 @@ Building a good city website is challenging. This is a shared space to track bes
     - Design Manual
     - Writing Style Guide
     - Vision and Goals
-    - Information Architecture
+    - [Information Architecture](docs/ia.md)
     - User Stories
     - [Platform Selection](docs/platform.md)
   - Assembly 
