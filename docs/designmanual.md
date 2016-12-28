@@ -39,19 +39,19 @@ The primary color palette for city web properties is blue, keeping consistent wi
 
 ###### Primary colors
 
-![image alt text](image_0.png)
+![Primary Colors](./images/image_0.png)
 
 ###### Background colors
 
 These colors are used primarily for background wells and fields. When alternating between tones, be sure to use enough tones providing enough contrast between adjacent wells.
 
-![image alt text](image_1.png)
+![Background Colors](./images/image_1.png)
 
 ###### Secondary colors
 
 These colors are used primarily as accent colors, and should be used to add variety to page content and illustrations. They should never overpower the core brand colors.
 
-![image alt text](image_2.png)
+![Secondary colors](./images/image_2.png)
 
 #### Typography (Fonts)
 
