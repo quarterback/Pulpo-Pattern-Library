@@ -55,7 +55,7 @@ These colors are used primarily as accent colors, and should be used to add vari
 
 #### Typography (Fonts)
 
-Typography helps maintain a consistent brand identity internally and on public-facing materials. **[Nimbus San**s](https://typekit.com/fonts/nimbus-sans)** **is the primary typeface for all city digital collateral. Recommended use: 48 px for headers, 18 px for content. **[FF Tis**a](https://typekit.com/fonts/ff-tisa) is the secondary typeface, best used for body copy and other small text. In instances where neither font is available, **Helvetica Neue** can be substituted. For web fonts, use **Roboto** as a primary typeface unless otherwise specified.
+Typography helps maintain a consistent brand identity internally and on public-facing materials. **[Nimbus Sans](https://typekit.com/fonts/nimbus-sans)** is the primary typeface for all city digital collateral. Recommended use: 48 px for headers, 18 px for content. **[FF Tisa](https://typekit.com/fonts/ff-tisa)** is the secondary typeface, best used for body copy and other small text. In instances where neither font is available, **Helvetica Neue** can be substituted. For web fonts, use **Roboto** as a primary typeface unless otherwise specified.
 
 ## Global elements
 
