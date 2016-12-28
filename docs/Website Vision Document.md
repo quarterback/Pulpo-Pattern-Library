@@ -1,4 +1,5 @@
-**City of Bloomington (BLOOMINGTON.IN.GOV)Website Mission Statement**
+**City of Bloomington (BLOOMINGTON.IN.GOV)
+Website Mission Statement**
 
 Drafted September 13, 2016
 
@@ -12,7 +13,8 @@ This document is designed to help people in departments and agencies who need to
 
 Something will go on the city website if it has a clear user need and fits 1 of the following criteria.
 
-1. **City Government Services**It’s something people need to do and can only be done with government, for example:
+1. **City Government Services**
+It’s something people need to do and can only be done with government, for example:
 
     * paying a bill or fine
 
@@ -20,7 +22,8 @@ Something will go on the city website if it has a clear user need and fits 1 of 
 
     * applying for city-issued licenses/permits
 
-2. **Involving people**It helps government be transparent, engage with people, clearly explain policies and fulfil legal obligations to the public, for example:
+2. **Involving people**
+It helps government be transparent, engage with people, clearly explain policies and fulfil legal obligations to the public, for example:
 
     * board meeting times & agendas; press releases
 
@@ -28,7 +31,8 @@ Something will go on the city website if it has a clear user need and fits 1 of 
 
     * explaining policies and government activity
 
-3. **Access government programs**It helps people find and access city funded support programs, for example:
+3. **Access government programs**
+It helps people find and access city funded support programs, for example:
 
     * public housing
 
@@ -40,7 +44,8 @@ It supports government campaigns that raise awareness about civic issues, for ex
 
     * branded content for specific campaigns as directed by city leadership
 
-5. **Policies and regulations**It allows professionals and specialists to find time-sensitive, relevant policies and regulations, for example:
+5. **Policies and regulations
+**It allows professionals and specialists to find time-sensitive, relevant policies and regulations, for example:
 
     * requests for proposal, information & questions
 
