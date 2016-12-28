@@ -1,4 +1,5 @@
-# City of Bloomington (BLOOMINGTON.IN.GOV)Design Manual
+# City of Bloomington (BLOOMINGTON.IN.GOV)
+Design Manual
 
 Drafted September 14, 2016
 
