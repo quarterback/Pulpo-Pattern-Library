@@ -1,19 +1,18 @@
-# City Website Framework
+# Pulpo City Website Framework
 
-Building a good city website is challenging. This is a shared space to track best practices and processes for the task. 
+Pulpo is our attempt at building a framework for city websites. We found in redesigning our own municipal website, there is not a great starting place for communities undertaking this task in-house. Pulpo is meant to provide you with a starter kit of tools aimed at helping you track & utilize best practices en route to launching your own site -- wherever you are in the process of development. 
 
 ## General steps:
 
   - Foundation
-    - Design Manual
-    - Writing Style Guide
+    - A living style guide and pattern library
     - Vision and Goals
     - [Information Architecture](docs/ia.md)
     - User Stories
     - [Platform Selection](docs/platform.md)
   - Assembly 
     - Wireframes
-    - Page Types
+    - City-government specific page templates
     - Platform Installation / Configuration 
   - Implementation
     - Rewrite and Migrate Content
