@@ -1,4 +1,5 @@
-**City of Bloomington (BLOOMINGTON.IN.GOV)Content Style Guide**
+**City of Bloomington (BLOOMINGTON.IN.GOV)
+Content Style Guide**
 
 Drafted September 13, 2016
 
