@@ -1,37 +1,39 @@
 # City of Bloomington (BLOOMINGTON.IN.GOV)
-Design Manual
+Pattern Library
 
 Drafted September 14, 2016
+Updated February 4, 2017
 
-The City of Bloomington website strives to better serve consumers by using plain language; relying on simple, user-friendly design; and providing easy access to information that can help consumers make informed decisions.
-
-This Design Manual is an open-source resource for city staff to produce effective and visually-consistent products that are easy for consumers to access, use, and understand. The Manual includes our design principles, guidelines for user experience, visual identity standards, and code snippets for common user interface elements. The Manual will continue to evolve as we learn what works best for the city residents and the people we serve.
+This pattern library is a UI/UX style guide that provides pattern documentation for designers, developers, and web producers creating assets for the City of Bloomington (IN) web properties. 
 
 ## Design principles
 
-1. Start with needs
+Our design framework allows us to create a website that:
 
-2. Do less
+1. Renders across a range of browsers
+The City of Bloomington website displays consistently and legibly on a wide range of devices using a mobile-first approach, a responsive design based on a flexible grid system, and industry-standard technologies.
 
-3. Design with data
+2. Has a consistent UI, visual style, navigation, and interaction
+To provide a unified experience, we ensure that persistent elements and components exist throughout the site to help users navigate it. Through our consistent implementation of color, design, branding, and navigational elements, users should be able to orient themselves wherever they may be within the site.
 
-4. Do the hard work to make it simple
+3. Contains searchable and findable content
+In addition to a hierarchical navigational structure, we provide a persistent search function, the principal method users find data on the web. Whether they drill down, traverse, perform a site search, or arrive at the site from a search engine, users should be able to find what they need quickly, and we provide the means to do so with a logical content hierarchy, a robust search function, and search-engine-optimization techniques.
 
-5. Iterate. Then iterate again
+4. Is accessible
+We implement a user-centric design for a wide variety of users, no matter their abilities or skill level. It's simple and intuitive, using clear typography and distinct page sections. You don't have to be a techie to use it.
 
-6. Build for inclusion
+## CSS
+Documentation of typographic styles displayed across sites.
 
-7. Understand context
+### Font
+The site uses Work Sans as its main font. Base size is 20px.
 
-8. Build digital services, not websites
+*We use Sass variables for font weights.*
 
-9. Be consistent not uniform
 
-10. Be transparent; it makes things better
-
-## Brand guidelines
-
-The City of Bloomington digital collateral are built and designed to promote a clear and trusted relationship with consumers and enable them to live better financial lives. These guidelines represent the most up-to-date visual expression of the City of Bloomington website.
+## Components
+## Javascript
+## Templates
 
 #### Color Palette
 
