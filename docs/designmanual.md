@@ -30,27 +30,41 @@ The site uses Work Sans as its main font. Base size is 20px.
 
 *We use Sass variables for font weights.*
 
+### Font Weights
+
+### Foundational Headings
+Default styling of page headings. These are semantic headings with no classes. (There will, however, be cases when the semantic won't match the visual hierarchy of a page. For example, a complex page may have several semantic h1's, but some of them may visually be required to look like h2. In those cases, use heading classes to make the page visually consistent.)
+
+### Additional Headings
+
+### Paragraphs
+
+### Lists
+
+### Block Quote
+
+### Center
+
 
 ## Components
 ## Javascript
 ## Templates
 
-#### Color Palette
+## Colors
 
-The primary color palette for city web properties is blue, keeping consistent with city branding in print and on vehicles. This document seeks simply to establish a consistent visual brand for digital properties. 
+These are the approved colors for use on the site. We use SASS variables to set colors.
 
-###### Primary colors
+### Department Section Colors
+### Text and Background Colors
+### Gray Background Colors
+### Data Visualization Colors
 
-![Primary Colors](./images/image_0.png)
+## Icons
+Use A Customized Fork of Font Awesome 4.7 (http://fontawesome.io/)
 
-###### Background colors
+## Images
+### Hero Image
+### Circle Thumbnail (Bio Image)
+### Article Image
+### Place Image
 
-These colors are used primarily for background wells and fields. When alternating between tones, be sure to use enough tones providing enough contrast between adjacent wells.
-
-![Background Colors](./images/image_1.png)
-
-###### Secondary colors
-
-These colors are used primarily as accent colors, and should be used to add variety to page content and illustrations. They should never overpower the core brand colors.
-
-![Secondary colors](./images/image_2.png)
