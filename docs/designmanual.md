@@ -6,6 +6,11 @@ This pattern library is a UI/UX style guide that provides pattern documentation 
 
 ## Color Palette
 
+### Color Options
+These expanded set of color options is influenced by Material Design's color palette, which uses cues from contemporary architecture. The palette builds on the foundation of Factory Number One, while providing more unexpected and vibrant colors to add variety to city web properties.
+
+
+
 
 ## Typography
 
