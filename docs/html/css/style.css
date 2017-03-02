@@ -1,0 +1,201 @@
+@import url('https://fonts.googleapis.com/css?family=Muli:400,800|Playfair+Display');
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+/** breakpoints **/
+/** colors **/
+/* & */
+/** fonts **/
+/** font features mixins **/
+body {
+  font-family: "Playfair Display", sans-serif;
+  background-color: #fcfcfc;
+  padding: 2% 10%;
+}
+@media screen and (max-width: 640px) {
+  body {
+    padding: 4% 6%;
+  }
+}
+
+p {
+  font-family: "Playfair Display", sans-serif;
+}
+
+i {
+  font-family: "Playfair Display", sans-serif;
+  font-weight: 200;
+  letter-spacing: 0.015em;
+}
+
+section {
+  width: 100%;
+  margin: 0 auto;
+  margin-bottom: 10vh;
+  max-width: 900px;
+}
+
+.headline {
+  margin-bottom: 4vh;
+  font-family: "Muli"
+  font-size: 32px;
+  letter-spacing: -.02em;
+}
+
+.swatchContainer {
+  display: flex;
+  justify-content: space-between;
+}
+@media screen and (max-width: 640px) {
+  .swatchContainer {
+    flex-direction: column;
+  }
+}
+
+.swatch {
+  color: #fdfdfd;
+  border-radius: 5px;
+  min-width: 23%;
+  min-height: 15vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3vh;
+  font-weight: 600;
+}
+
+.colorBG--primary {
+  background-color: #183365;
+}
+
+.colorBG--secondary {
+  background-color: #315da6;
+}
+
+.colorBG--tertiary {
+  background-color: #C8B595;
+}
+
+.colorBG--quarternary {
+  background-color: #8B3834;
+}
+
+.typography p {
+  text-indent: 0em;
+  font-weight: 200;
+  letter-spacing: -0.009em;
+  color: #333;
+  font-size: 20px;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-rendering: optimizeLegibility;
+  -moz-osx-font-smoothing: grayscale;
+  font-kerning: normal;
+  font-variant-ligatures: common-ligatures, contextual;
+  font-variant-numeric: oldstyle-nums, proportional-nums;
+  /* vendor prefixes for above */
+  -moz-font-feature-settings: "kern", "liga", "clig", "calt", "onum", "pnum";
+  -ms-font-feature-settings: "kern", "liga", "clig", "calt", "onum", "pnum";
+  -webkit-font-feature-settings: "kern", "liga", "clig", "calt", "onum", "pnum";
+  font-feature-settings: "kern", "liga", "clig", "calt", "onum", "pnum";
+}
+@media screen and (max-width: 640px) {
+  .typography p {
+    font-size: 3.6vw;
+    line-height: 4.9vw;
+  }
+}
+
+.button {
+  display: inline-block;
+  padding: 14px 28px;
+  background-color: #614671;
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 17px;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-rendering: optimizeLegibility;
+  -moz-osx-font-smoothing: grayscale;
+  font-weight: 500;
+  letter-spacing: -.3px;
+}
+.button.button--primary {
+  background-color: #65387f;
+}
+.button.button--primary:hover {
+  background-color: #6d189f;
+}
+.button.button--ofConsequence {
+  background-color: #9e2721;
+}
+.button.button--ofConsequence:hover {
+  background-color: #bb0d04;
+}
+
+/*** Hero ***/
+.hero-container {
+  height: 40vh;
+  min-height: 280px;
+  text-align: center;
+}
+
+.hero {
+  width: 100%;
+  display: flex;
+  height: 40vh;
+  min-height: 280px;
+  background-color: black;
+  position: absolute;
+  left: 0;
+}
+
+.hero:before {
+  width: 100%;
+  background-image: url(https://source.unsplash.com/category/nature/1600x900/daily);
+  background-size: cover;
+  background-position: center center;
+  height: 40vh;
+  min-height: 280px;
+  position: absolute;
+  content: "";
+  overflow: hidden;
+  background-blend-mode: luminosity;
+  background-color: #614671;
+}
+
+.hero--blur::before {
+  -webkit-filter: blur(2px) brightness(56%) contrast(1.7);
+  filter: blur(2px) brightness(56%) contrast(1.7);
+}
+
+.hero-innerContainer {
+  margin: 15px auto;
+  z-index: 2;
+  color: white;
+  max-width: 900px;
+  text-align: left;
+  width: 100%;
+}
+.hero-innerContainer h1 {
+  font-size: 7vh;
+  letter-spacing: -.2vh;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+.hero-innerContainer .subheadline {
+  font-weight: 300;
+  font-size: 21px;
+  margin-top: 11px;
+  margin-bottom: 25px;
+  margin-left: 2px;
+}
+.hero-innerContainer .button--primary {
+  background-color: #ad8228;
+}
+.hero-innerContainer .button--primary:hover {
+  background-color: #cd8e08;
+}
+
+.icon {
+  color: #555;
+  font-size: 36px;
+}
