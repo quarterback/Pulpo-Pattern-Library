@@ -7,7 +7,7 @@ This pattern library is a UI/UX style guide that provides pattern documentation 
 ## Color Palette
 
 ### Primary Palette
-,,,
+```
 .dark-primary-color    { background: #183365; }
 .default-primary-color { background: #315DA6; }
 .light-primary-color   { background: #C9E5F7; }
@@ -16,7 +16,7 @@ This pattern library is a UI/UX style guide that provides pattern documentation 
 .primary-text-color    { color: #212121; }
 .secondary-text-color  { color: #9E9E9E; }
 .divider-color         { border-color: #BDBDBD; }
-,,,
+```
 
 ### Color Options
 These expanded set of color options is influenced by Material Design's color palette, which uses cues from contemporary architecture. The palette builds on the foundation of Factory Number One, while providing more unexpected and vibrant colors to add variety to city web properties.
